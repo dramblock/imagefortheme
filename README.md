@@ -1,0 +1,2 @@
+# imagefortheme
+image for discordtheme
